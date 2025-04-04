@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "event-catcher",
+    "slug": "snack-f9cf3779-cdd3-4f3d-a2b7-566796524e2b",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "This app is aimed at event organizers and attendees seeking a streamlined digital solution for event scheduling, check-ins, and reminders. Its portfolio-worthy features demonstrate the developer’s ability to integrate multiple libraries, handle real-time notifications, and create an engaging, professionally styled mobile experience."
+  }
+}
